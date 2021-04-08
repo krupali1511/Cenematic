@@ -1,6 +1,6 @@
 # cenematic
 
-A new Flutter application.
+A Flutter application that shows the details of the movies
 
 ## Getting Started
 
